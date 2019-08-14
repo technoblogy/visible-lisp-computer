@@ -1,2 +1,2 @@
-# visible-lisp-computer
-A Lisp interpreter that displays the contents of the Lisp workspace on an OLED display
+# Visible Lisp Computer
+This is a Lisp interpreter that displays the contents of the Lisp workspace on an OLED display, so you can see program execution and garbage collection in real time. Coming soon.
